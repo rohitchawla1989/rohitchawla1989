@@ -1,0 +1,24 @@
+{
+	"Name": "Rohit chawla",
+	"Office Location": "India",
+	"date of joining": 15102015,
+	"position": "Senior manager",
+	"Employee ID": 6,
+	"Active Member": true,
+	"Department code": 403,
+	"Years in Lucid" : 5.5,
+	"Active years": 5.1,
+	"Other position": null,
+	"Other managers": [{
+		"Name": "vishal Bhat",
+		"Title": "Senior Manager",
+		"CoordPMO": false,
+		"Other managers": [{
+			"Name": "Mandeep Singh",
+			"Title": "Manager",
+			"CoordPMO": false
+		}]
+	}],
+	"Lucid Programs": ["Lucid Legends", "Lucid Codes"]
+
+}
